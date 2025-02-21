@@ -1,0 +1,1 @@
+This is a super shop billing system that is built in the C language. In this project, I try to add so many features, like displaying the item, daily sales report, user ID (admin and customer both), and so many more.
