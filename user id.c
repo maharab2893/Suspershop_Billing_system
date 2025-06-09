@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 #define MAX_ITEM 100
-#define VAT 0.1
+#define VAT 0.2 // discount is 20%
 #define MAX_PROMO 4
 #define MAX_PHONE_LENGTH 15
 #define MAX_PASS_LENGTH 15
